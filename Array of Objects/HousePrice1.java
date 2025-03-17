@@ -1,4 +1,4 @@
-/*import java.util.Scanner;
+import java.util.Scanner;
 class House {
     int landSize;
     int quality;
@@ -41,4 +41,4 @@ public class HousePrice1 {
         System.out.println(house.landSize + " " + house.quality + " " + house.floors + " " + house.houseArea);
         System.out.println(house.price);
     }
-}*/
+}
